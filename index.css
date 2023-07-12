@@ -1,0 +1,25 @@
+.quote-container{
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    transition: all 0.3s;
+}
+
+button:hover{
+    background-color: green;
+}
+
+p{
+    font-size: 35px;
+}
+
